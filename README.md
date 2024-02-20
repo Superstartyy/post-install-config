@@ -28,10 +28,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA
 
 <h2>Configuration Steps</h2>
+![image](https://github.com/Superstartyy/post-install-config/assets/159973263/1fd057f0-1ba7-4749-94ea-04273598bae2)
 
 <p>
-<img src="https://![image](https://github.com/Superstartyy/post-install-config/assets/159973263/877bd4d3-3cf0-43d6-a4a7-5c3d466dd08c)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
