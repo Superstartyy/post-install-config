@@ -30,7 +30,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![image](https://github.com/Superstartyy/post-install-config/assets/159973263/20f7bc46-dd60-4069-8b0a-85ccd6363ef1)
+<img src="https://![image](https://github.com/Superstartyy/post-install-config/assets/159973263/877bd4d3-3cf0-43d6-a4a7-5c3d466dd08c)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 </p>
